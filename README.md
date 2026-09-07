@@ -4,7 +4,7 @@
 
 A full-stack web application that analyzes privacy policies for compliance with **India's Digital Personal Data Protection (DPDP) Act 2023**. The system uses AI-powered semantic analysis to evaluate privacy documents and automatically generate comprehensive compliance reports.
 
-### Key Features 🎯
+### Key Features 
 - ✅ **AI-Powered Analysis**: Semantic similarity matching using Sentence Transformers
 - ✅ **Compliance Scoring**: Automatic DPDP clause compliance percentage calculation
 - ✅ **Risk Assessment**: Smart risk classification (Low/Medium/High)
@@ -18,7 +18,7 @@ A full-stack web application that analyzes privacy policies for compliance with 
 
 ---
 
-## Architecture 🏗️
+## Architecture 
 
 ### Technology Stack
 
@@ -48,7 +48,7 @@ A full-stack web application that analyzes privacy policies for compliance with 
 
 ---
 
-## Project Structure 📁
+## Project Structure 
 
 ```
 dpdp-compliance-checker/
@@ -115,7 +115,7 @@ The system analyzes compliance with 5 key DPDP clauses:
 
 ---
 
-## Installation & Setup 🚀
+## Installation & Setup 
 
 ### Prerequisites
 - Python 3.8+
@@ -184,7 +184,7 @@ docker-compose down
 
 ---
 
-## Jenkins CI/CD Pipeline 🔄
+## Jenkins CI/CD Pipeline 
 
 The project includes automated deployment via Jenkins.
 
@@ -249,8 +249,7 @@ http://localhost:8080
 
 ---
 
-## AI Semantic Analysis 🤖
-
+## AI Semantic Analysis 
 ### How It Works:
 
 1. **Policy Text Processing**: Extract and clean policy content
