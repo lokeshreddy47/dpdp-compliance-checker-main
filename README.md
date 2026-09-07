@@ -1,6 +1,6 @@
-# DPDP Act 2023 Compliance Checker 🔒
+ DPDP Act 2023 Compliance Checker 
 
-## Project Overview
+ Project Overview
 
 A full-stack web application that analyzes privacy policies for compliance with **India's Digital Personal Data Protection (DPDP) Act 2023**. The system uses AI-powered semantic analysis to evaluate privacy documents and automatically generate comprehensive compliance reports.
 
